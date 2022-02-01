@@ -18,6 +18,7 @@
 - Adobe XD
 ### Plan to Create Project
 - Research on competiting websites
+- Create Use Cases Diagram
 - Creating Mockup For website
   
   
